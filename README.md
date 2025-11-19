@@ -70,7 +70,7 @@
 
 ## 🙏 感谢
 
-- https://github.com/assimon/epusdt
+- https://github.com/v03413/BEpusdt
 
 ## 📢 声明
 
